@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sDXQMrv/MedfzFRZiZsoPC7HPdHwoMlR5q81n9kClUo=",
+  "Source": "train-reservation-system-server",
+  "BasePath": "_content/train-reservation-system-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
